@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: 
+metadata:
+  name: 
+spec:
+  containers:
+  - name: 
+    image: 
+    ports:
+    - containerPort: 
+    volumeMounts:
+    - name: 
+      mountPath: 
+  - name: 
+    image: 
+    volumeMounts:
+    - name: 
+      mountPath: 
+    command: 
+    args:
+      - 
+  volumes:
+  - name: 
