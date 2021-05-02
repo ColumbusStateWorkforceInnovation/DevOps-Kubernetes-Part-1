@@ -11,8 +11,6 @@ In this Lab we will go over the core features that make up Kubernetes. Make sure
 
 Understanding the core components, how they are used, and what they are used for are necessary before starting to use the higher-level kubernetes objects and resources.
 
-- 
-
 ---
 ## Getting Started:
 
