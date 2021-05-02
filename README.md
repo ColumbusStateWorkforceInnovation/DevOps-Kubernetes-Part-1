@@ -7,7 +7,7 @@ This lab is to help gain familiarity with some basic kubernetes resources
 ---
 ## Objective
 
-In this Lab we will go over the core features that make up Kubernetes. Make sure you have read the slides [TODO LINK] before going through this so you have a general understanding. 
+In this Lab we will go over the core features that make up Kubernetes. Make sure you have read the slides before going through this so you have a general understanding. 
 
 Understanding the core components, how they are used, and what they are used for are necessary before starting to use the higher-level kubernetes objects and resources.
 
