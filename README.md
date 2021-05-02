@@ -2,8 +2,7 @@
 
 ## Introduction: 
 
-This lab is to help gain familiarity with some basic kubernetes resources
-More examples with k8s commands can be found in [this repo](https://github.com/ColumbusStateWorkforceInnovation/infrastructure-kubernetes-week-1-examples) 
+This lab is to help gain familiarity with some basic kubernetes resources.  More examples with k8s commands can be found in [this repo](https://github.com/ColumbusStateWorkforceInnovation/infrastructure-kubernetes-week-1-examples) 
 
 ---
 ## Objective
