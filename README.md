@@ -69,4 +69,4 @@ The general manifest structures have been provided for ease of use, you are requ
 2-  Submit the assignment in Blackboard with the link to your repo
 
 
-[pre-lab]: https://github.com/cscc-afarag/kubernetes-week-1/blob/master/ENV_SETUP.md
+[pre-lab]: https://github.com/ColumbusStateWorkforceInnovation/infrastructure-kubernetes-week-1-examples/blob/master/ENV_SETUP.md
