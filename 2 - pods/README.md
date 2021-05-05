@@ -36,7 +36,7 @@ In the `manifests/pod_2.yml`, add an additional update the manifest with the fol
 3. Add a second container to the pod using the image -  `alpine:latest`
    -  The name of the container should be `pod-content`
 4. On the `nginx` container add a `volumeMount`
-   - mount the created `html-content` volume to the pod using `/user/share/nginx/html` as the `mountPath`
+   - mount the created `html-content` volume to the pod using `/usr/share/nginx/html` as the `mountPath`
 5. Similarly on the `pod-content` container add a `volumeMount`
    - mount the created `html-content` volume to the pod using `/html` as the `mountPath`
 6. On the `pod-content` container add a `command` with value `["/bin/sh", "-c"]`
