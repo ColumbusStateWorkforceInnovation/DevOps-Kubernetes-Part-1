@@ -14,7 +14,7 @@ Understanding the core components, how they are used, and what they are used for
 ---
 ## Getting Started:
 
-1 - Copy the starter code from here into a new, private repository in your personal GitHub account. When adding a collaborator, be sure to add me ("cscc-luke-rouker").
+1 - Copy the starter code from here into a new, private repository in your personal GitHub account. When adding a collaborator, be sure to add the instructor. ("CSCC-Instructor").
 
 
 2 - You need minikube up and running before going through the examples.
