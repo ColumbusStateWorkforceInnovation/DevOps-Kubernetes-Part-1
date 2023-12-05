@@ -1,4 +1,4 @@
-# Infrastructure Automation Kubernetes Lab 4 
+# DevOps Kubernetes Introduction Lab 4 
 
 ## Introduction: 
 
